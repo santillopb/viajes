@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Viajes</string>
+    <string name="nuevoViaje">nuevo viaje</string>
+    <string name="revisarViajes">revisar viajes</string>
+    <string name="modificarViajes">modificar viajes</string>
+    <string name="exportarExcel">exportar a excel</string>
+    <string name="cantidad">cantidad</string>
+    <string name="fecha">fecha</string>
+    <string name="orden">orden</string>
+    <string name="concepto">concepto</string>
+    <string name="fabrica">fabrica</string>
+    <string name="precio">precio</string>
+    <string name="crearviaje">crear viaje</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Array con los valores de la cabecera de la tabla-->
+    <string-array name="cabecera_tabla">
+        <item>Cantidad</item>
+        <item>Fecha</item>
+        <item>Orden</item>
+        <item>Concepto</item>
+        <item>Fabrica</item>
+        <item>Precio</item>
+    </string-array>
+    <string-array name="cabecera_tabla_modificar">
+        <item>Cantidad</item>
+        <item>Fecha</item>
+        <item>Orden</item>
+        <item>Concepto</item>
+        <item>Fabrica</item>
+        <item>Precio</item>
+        <item>Modificar</item>
+    </string-array>
+</resources>
